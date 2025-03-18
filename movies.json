@@ -1,0 +1,258 @@
+[
+    {
+        "title": "2012",
+        "genre": "Sci-Fi",
+        "year": 2012,
+        "reviews": [
+            {
+                "reviewer_name": "Mamamo",
+                "comment": "This movie is shit",
+                "rating": 1
+            },
+            {
+                "reviewer_name": "John",
+                "comment": "Visually impressive but too chaotic",
+                "rating": 3
+            }
+        ]
+    },
+    {
+        "title": "Interstellar",
+        "genre": "Sci-Fi",
+        "year": 2014,
+        "reviews": [
+            {
+                "reviewer_name": "Alex",
+                "comment": "Masterpiece! Mind-blowing visuals",
+                "rating": 5
+            },
+            {
+                "reviewer_name": "Sarah",
+                "comment": "Emotional and powerful",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "title": "Parasite",
+        "genre": "Thriller",
+        "year": 2019,
+        "reviews": [
+            {
+                "reviewer_name": "Kim",
+                "comment": "Incredible social commentary",
+                "rating": 5
+            },
+            {
+                "reviewer_name": "Lee",
+                "comment": "A thrilling ride with twists",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "title": "The Dark Knight",
+        "genre": "Action",
+        "year": 2008,
+        "reviews": [
+            {
+                "reviewer_name": "Bruce",
+                "comment": "Heath Ledger was amazing",
+                "rating": 5
+            },
+            {
+                "reviewer_name": "Clark",
+                "comment": "Best superhero movie ever",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "title": "La La Land",
+        "genre": "Musical",
+        "year": 2016,
+        "reviews": [
+            {
+                "reviewer_name": "Emma",
+                "comment": "Magical and heartfelt",
+                "rating": 5
+            },
+            {
+                "reviewer_name": "Ryan",
+                "comment": "Loved the music and performances",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "title": "Get Out",
+        "genre": "Horror",
+        "year": 2017,
+        "reviews": [
+            {
+                "reviewer_name": "Jordan",
+                "comment": "Clever and unsettling",
+                "rating": 5
+            },
+            {
+                "reviewer_name": "Chris",
+                "comment": "Really makes you think",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "title": "It",
+        "genre": "Horror",
+        "year": 2017,
+        "reviews": [
+            {
+                "reviewer_name": "Anonymous",
+                "comment": "RAWR",
+                "rating": 5
+            },
+            {
+                "reviewer_name": "Anonymous",
+                "comment": "Very scary!",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "title": "Saw X",
+        "genre": "Thriller",
+        "year": 2023,
+        "reviews": [
+            {
+                "reviewer_name": "Anonymous",
+                "comment": "Bringing back Tobin Bell was absolutely great comeback from the weird Spiral (2022) Installation.",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "title": "The Matrix",
+        "genre": "Sci-Fi",
+        "year": 1999,
+        "reviews": [
+            {
+                "reviewer_name": "Neo",
+                "comment": "A revolutionary film with mind-bending ideas",
+                "rating": 5
+            },
+            {
+                "reviewer_name": "Trinity",
+                "comment": "Timeless and groundbreaking",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "title": "The Lion King",
+        "genre": "Animation",
+        "year": 1994,
+        "reviews": [
+            {
+                "reviewer_name": "Simba",
+                "comment": "A childhood classic, emotional and beautiful",
+                "rating": 5
+            },
+            {
+                "reviewer_name": "Nala",
+                "comment": "Iconic and heartfelt, always brings tears",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "title": "Inception",
+        "genre": "Sci-Fi",
+        "year": 2010,
+        "reviews": [
+            {
+                "reviewer_name": "Cobb",
+                "comment": "A brilliant and complex thriller",
+                "rating": 5
+            },
+            {
+                "reviewer_name": "Arthur",
+                "comment": "Puts your mind through a whirlwind",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "title": "Avengers: Endgame",
+        "genre": "Action",
+        "year": 2019,
+        "reviews": [
+            {
+                "reviewer_name": "Tony Stark",
+                "comment": "An epic conclusion to an incredible journey",
+                "rating": 5
+            },
+            {
+                "reviewer_name": "Captain America",
+                "comment": "A perfect end to the saga",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "title": "Spider-Man: Into the Spider-Verse",
+        "genre": "Animation",
+        "year": 2018,
+        "reviews": [
+            {
+                "reviewer_name": "Miles Morales",
+                "comment": "Amazing animation, heartwarming story",
+                "rating": 5
+            },
+            {
+                "reviewer_name": "Peter B. Parker",
+                "comment": "A fresh take on Spider-Man, visually stunning",
+                "rating": 5
+            },
+            {
+                "reviewer_name": "Mary Jane",
+                "comment": "Why is Peter black?",
+                "rating": 1
+            },
+            {
+                "reviewer_name": "Anonymous",
+                "comment": "Is there a need to black wash Spider-Man?",
+                "rating": 1
+            },
+            {
+                "reviewer_name": "Anonymous",
+                "comment": "Story and everything is great. But how hard is it to re-color Spider-Man to white?",
+                "rating": 2
+            },
+            {
+                "reviewer_name": "Gwen Stacy",
+                "comment": "The animation style is incredible, but the plot was a bit confusing at times.",
+                "rating": 3
+            },
+            {
+                "reviewer_name": "Green Goblin",
+                "comment": "I expected more action. It felt too slow and drawn out for me.",
+                "rating": 2
+            },
+            {
+                "reviewer_name": "Doc Ock",
+                "comment": "An enjoyable movie, but I personally prefer the classic version of Spider-Man.",
+                "rating": 3
+            },
+            {
+                "reviewer_name": "Uncle Ben",
+                "comment": "Too much focus on multiverse stuff. Missed the core of Spider-Man's character.",
+                "rating": 2
+            },
+            {
+                "reviewer_name": "Stan Lee",
+                "comment": "A beautiful homage to the character, but it did stray a bit from the original vibe of Spider-Man.",
+                "rating": 3
+            }
+        ]
+    }
+]
