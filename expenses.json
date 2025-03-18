@@ -1,0 +1,308 @@
+[
+    {
+        "description": "Starbucks",
+        "category": "Food",
+        "amount": 1000.0,
+        "date": "2025-03-18"
+    },
+    {
+        "description": "Cinnamon",
+        "category": "Food",
+        "amount": 250.0,
+        "date": "2025-03-18"
+    },
+    {
+        "description": "Rawr",
+        "category": "Others",
+        "amount": 500.0,
+        "date": "2004-10-15"
+    },
+    {
+        "description": "Tite",
+        "category": "Needs",
+        "amount": 50000.0,
+        "date": "2025-03-19"
+    },
+    {
+        "description": "Testing",
+        "category": "Others",
+        "amount": 250.0,
+        "date": "2004-10-15"
+    },
+    {
+        "description": "Burger King",
+        "category": "Food",
+        "amount": 320.0,
+        "date": "2025-02-14"
+    },
+    {
+        "description": "Milk Tea",
+        "category": "Food",
+        "amount": 150.0,
+        "date": "2025-01-10"
+    },
+    {
+        "description": "Rent",
+        "category": "Needs",
+        "amount": 15000.0,
+        "date": "2025-03-01"
+    },
+    {
+        "description": "Electric Bill",
+        "category": "Needs",
+        "amount": 4500.0,
+        "date": "2025-03-05"
+    },
+    {
+        "description": "Water Bill",
+        "category": "Needs",
+        "amount": 800.0,
+        "date": "2025-03-06"
+    },
+    {
+        "description": "Spotify Premium",
+        "category": "Others",
+        "amount": 149.0,
+        "date": "2025-03-08"
+    },
+    {
+        "description": "Netflix",
+        "category": "Others",
+        "amount": 550.0,
+        "date": "2025-03-10"
+    },
+    {
+        "description": "Shopee Order",
+        "category": "Others",
+        "amount": 1200.0,
+        "date": "2025-02-20"
+    },
+    {
+        "description": "McDonald's",
+        "category": "Food",
+        "amount": 280.0,
+        "date": "2025-01-22"
+    },
+    {
+        "description": "Jollibee",
+        "category": "Food",
+        "amount": 350.0,
+        "date": "2025-02-28"
+    },
+    {
+        "description": "Grocery",
+        "category": "Needs",
+        "amount": 5200.0,
+        "date": "2025-03-15"
+    },
+    {
+        "description": "Gym Membership",
+        "category": "Needs",
+        "amount": 1000.0,
+        "date": "2025-01-05"
+    },
+    {
+        "description": "Medicine",
+        "category": "Needs",
+        "amount": 900.0,
+        "date": "2025-02-25"
+    },
+    {
+        "description": "Gasoline",
+        "category": "Needs",
+        "amount": 2000.0,
+        "date": "2025-03-12"
+    },
+    {
+        "description": "Socks",
+        "category": "Others",
+        "amount": 180.0,
+        "date": "2025-02-05"
+    },
+    {
+        "description": "T-Shirt",
+        "category": "Others",
+        "amount": 450.0,
+        "date": "2025-03-05"
+    },
+    {
+        "description": "Phone Bill",
+        "category": "Needs",
+        "amount": 800.0,
+        "date": "2025-03-10"
+    },
+    {
+        "description": "Internet Bill",
+        "category": "Needs",
+        "amount": 1800.0,
+        "date": "2025-03-15"
+    },
+    {
+        "description": "Subway Sandwich",
+        "category": "Food",
+        "amount": 290.0,
+        "date": "2025-03-11"
+    },
+    {
+        "description": "Uber Ride",
+        "category": "Needs",
+        "amount": 350.0,
+        "date": "2025-02-18"
+    },
+    {
+        "description": "Grab Food",
+        "category": "Food",
+        "amount": 200.0,
+        "date": "2025-02-21"
+    },
+    {
+        "description": "Ice Cream",
+        "category": "Food",
+        "amount": 120.0,
+        "date": "2025-01-15"
+    },
+    {
+        "description": "Guitar Strings",
+        "category": "Others",
+        "amount": 300.0,
+        "date": "2025-02-20"
+    },
+    {
+        "description": "Concert Ticket",
+        "category": "Others",
+        "amount": 2500.0,
+        "date": "2025-02-05"
+    },
+    {
+        "description": "Taco Bell",
+        "category": "Food",
+        "amount": 230.0,
+        "date": "2025-01-27"
+    },
+    {
+        "description": "Gas Refill",
+        "category": "Needs",
+        "amount": 900.0,
+        "date": "2025-03-10"
+    },
+    {
+        "description": "Manga Volume",
+        "category": "Others",
+        "amount": 650.0,
+        "date": "2025-02-09"
+    },
+    {
+        "description": "Coffee Beans",
+        "category": "Food",
+        "amount": 450.0,
+        "date": "2025-02-14"
+    },
+    {
+        "description": "Cake",
+        "category": "Food",
+        "amount": 500.0,
+        "date": "2025-02-12"
+    },
+    {
+        "description": "Laundry Service",
+        "category": "Needs",
+        "amount": 750.0,
+        "date": "2025-02-22"
+    },
+    {
+        "description": "Parking Fee",
+        "category": "Needs",
+        "amount": 100.0,
+        "date": "2025-01-30"
+    },
+    {
+        "description": "Powerbank",
+        "category": "Others",
+        "amount": 2000.0,
+        "date": "2025-02-15"
+    },
+    {
+        "description": "Notebook",
+        "category": "Needs",
+        "amount": 150.0,
+        "date": "2025-02-17"
+    },
+    {
+        "description": "Concert Shirt",
+        "category": "Others",
+        "amount": 1200.0,
+        "date": "2025-03-09"
+    },
+    {
+        "description": "E-Book",
+        "category": "Others",
+        "amount": 300.0,
+        "date": "2025-03-03"
+    },
+    {
+        "description": "Fries",
+        "category": "Food",
+        "amount": 80.0,
+        "date": "2025-02-01"
+    },
+    {
+        "description": "Burger",
+        "category": "Food",
+        "amount": 150.0,
+        "date": "2025-02-10"
+    },
+    {
+        "description": "Haircut",
+        "category": "Needs",
+        "amount": 350.0,
+        "date": "2025-03-07"
+    },
+    {
+        "description": "Movie Ticket",
+        "category": "Others",
+        "amount": 300.0,
+        "date": "2025-03-02"
+    },
+    {
+        "description": "Hiking Trip",
+        "category": "Others",
+        "amount": 3200.0,
+        "date": "2025-02-23"
+    },
+    {
+        "description": "Korean BBQ",
+        "category": "Food",
+        "amount": 1500.0,
+        "date": "2025-03-04"
+    },
+    {
+        "description": "Pasta",
+        "category": "Food",
+        "amount": 200.0,
+        "date": "2025-03-06"
+    },
+    {
+        "description": "Sushi",
+        "category": "Food",
+        "amount": 700.0,
+        "date": "2025-03-09"
+    },
+    {
+        "description": "Doughnuts",
+        "category": "Food",
+        "amount": 300.0,
+        "date": "2025-02-28"
+    },
+    {
+        "description": "Flash Drive",
+        "category": "Others",
+        "amount": 500.0,
+        "date": "2025-02-26"
+    },
+    {
+        "description": "tite",
+        "category": "Others",
+        "amount": 1000.0,
+        "date": "2025-03-19"
+    }
+]

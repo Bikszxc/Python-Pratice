@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Angelyn",
+        "phone": 9124569123,
+        "email": "angelyn@usa.edu.ph"
+    },
+    {
+        "name": "Carlos",
+        "phone": 9345678901,
+        "email": "carlos@bacolod.edu.ph"
+    },
+    {
+        "name": "Dana",
+        "phone": 9456789012,
+        "email": "dana@manila.ph"
+    },
+    {
+        "name": "Elijah",
+        "phone": 9567890123,
+        "email": "elijah@davao.edu.ph"
+    },
+    {
+        "name": "Fiona",
+        "phone": 9678901234,
+        "email": "fiona@cebu.org"
+    },
+    {
+        "name": "Gabriel",
+        "phone": 9789012345,
+        "email": "gabriel@quezon.ph"
+    },
+    {
+        "name": "Hannah",
+        "phone": 9890123456,
+        "email": "hannah@laguna.net"
+    },
+    {
+        "name": "Ian",
+        "phone": 9901234567,
+        "email": "ian@negros.org"
+    },
+    {
+        "name": "Jasmine",
+        "phone": 9012345678,
+        "email": "jasmine@iloilo.edu.ph"
+    },
+    {
+        "name": "Test",
+        "phone": "09123",
+        "email": "rawr@miami.com"
+    }
+]
