@@ -48,5 +48,15 @@
         "name": "Test",
         "phone": "09123",
         "email": "rawr@miami.com"
+    },
+    {
+        "name": "John Andrei Calendas",
+        "phone": "91242358123",
+        "email": "jcalendas@usa.edu.ph"
+    },
+    {
+        "name": "Hazel Marie Garganera Lebronita",
+        "phone": "97346923421",
+        "email": "hgarganera@usa.edu.ph"
     }
 ]

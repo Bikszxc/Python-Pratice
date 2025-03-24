@@ -10,8 +10,8 @@
                 "rating": 1
             },
             {
-                "reviewer_name": "John",
-                "comment": "Visually impressive but too chaotic",
+                    "reviewer_name": "John",
+                    "comment": "Visually impressive but too chaotic",
                 "rating": 3
             }
         ]
@@ -252,6 +252,36 @@
                 "reviewer_name": "Stan Lee",
                 "comment": "A beautiful homage to the character, but it did stray a bit from the original vibe of Spider-Man.",
                 "rating": 3
+            }
+        ]
+    },
+    {
+        "title": "365 Days",
+        "genre": "Romance",
+        "year": 2019,
+        "reviews": [
+            {
+                "reviewer_name": "Angelyn",
+                "comment": "Dick and vagaygay is not seen in the film. BOring. ",
+                "rating": 3
+            }
+        ]
+    },
+    {
+        "title": "365 Days",
+        "genre": "Romance",
+        "year": 2022,
+        "reviews": []
+    },
+    {
+        "title": "Blink Twice",
+        "genre": "Thriller",
+        "year": 2024,
+        "reviews": [
+            {
+                "reviewer_name": "Anonymous",
+                "comment": "blahllalsaalblabl",
+                "rating": 5
             }
         ]
     }

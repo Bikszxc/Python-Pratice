@@ -1,5 +1,4 @@
 import json
-from datetime import datetime
 import os
 from colorama import Fore, Style, init
 
@@ -175,6 +174,8 @@ def main_menu():
                         try:
                             selection = int(input(f"{Fore.YELLOW}Select a movie number to review: {Style.RESET_ALL}"))
                             if selection > len(RottenMangoes.movies):
+                                print(f"{Fore.RED}Selection does not exist{Style.RESET_ALL}")
+                            elif selection < 1:
                                 print(f"{Fore.RED}Selection does not exist{Style.RESET_ALL}")
                             else:
                                 selection = RottenMangoes.movies[selection - 1].title
