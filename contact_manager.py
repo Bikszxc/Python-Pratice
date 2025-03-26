@@ -59,10 +59,11 @@ def add_contact():
 
 # View all contacts
 def view_contacts():
-    print(f"{'No.':<5}{'Name':<15}{'Phone':<15}{'Email'}")
+    spacing = max(len(contact['name']) for contact in contacts) + 5
+    print(f"{'No.':<5}{'Name':<{spacing}}{'Phone':<15}{'Email'}")
     print("-" * 50)
     for i, contact in enumerate(contacts, start=1):
-        print(f"{str(i):<5}{contact['name']:<15}{contact['phone']:<15}{contact['email']}")
+        print(f"{str(i):<5}{contact['name']:<{spacing}}{contact['phone']:<15}{contact['email']}")
 
 # Delete a contact
 def delete_contact():

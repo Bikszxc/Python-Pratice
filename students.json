@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Angelyn",
+        "age": 19
+    },
+    {
+        "name": "John Doe",
+        "age": 20
+    },
+    {
+        "name": "Jane Smith",
+        "age": 22
+    },
+    {
+        "name": "Alice Brown",
+        "age": 21
+    },
+    {
+        "name": "Bob White",
+        "age": 23
+    },
+    {
+        "name": "Charlie Green",
+        "age": 19
+    },
+    {
+        "name": "David Johnson",
+        "age": 24
+    },
+    {
+        "name": "Emily Carter",
+        "age": 20
+    },
+    {
+        "name": "Franklin Lewis",
+        "age": 22
+    },
+    {
+        "name": "Grace Mitchell",
+        "age": 21
+    }
+]
