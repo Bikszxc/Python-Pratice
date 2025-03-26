@@ -1,0 +1,82 @@
+[
+    {
+        "question": "Who is known as the father of computers?",
+        "answer": "Charles Babbage",
+        "progress": {
+            "corrects": 1,
+            "incorrects": 0
+        }
+    },
+    {
+        "question": "What does CPU stand for?",
+        "answer": "Central Processing Unit",
+        "progress": {
+            "corrects": 8,
+            "incorrects": 1
+        }
+    },
+    {
+        "question": "What is the main function of an operating system?",
+        "answer": "Manage hardware and software resources",
+        "progress": {
+            "corrects": 1,
+            "incorrects": 0
+        }
+    },
+    {
+        "question": "Which programming language is known as the mother of all languages?",
+        "answer": "C",
+        "progress": {
+            "corrects": 1,
+            "incorrects": 1
+        }
+    },
+    {
+        "question": "What does RAM stand for?",
+        "answer": "Random Access Memory",
+        "progress": {
+            "corrects": 13,
+            "incorrects": 2
+        }
+    },
+    {
+        "question": "Which company developed the Windows operating system?",
+        "answer": "Microsoft",
+        "progress": {
+            "corrects": 1,
+            "incorrects": 0
+        }
+    },
+    {
+        "question": "What is the function of a GPU?",
+        "answer": "Render graphics",
+        "progress": {
+            "corrects": 1,
+            "incorrects": 0
+        }
+    },
+    {
+        "question": "What does HTTP stand for?",
+        "answer": "Hypertext Transfer Protocol",
+        "progress": {
+            "corrects": 1,
+            "incorrects": 1
+        }
+    },
+    {
+        "question": "Which type of malware locks your files and demands payment?",
+        "answer": "Ransomware",
+        "progress": {
+            "corrects": 1,
+            "incorrects": 0
+        }
+    },
+    {
+        "question": "What does SSD stand for?",
+        "answer": "Solid State Drive",
+        "progress": {
+            "corrects": 1,
+            "incorrects": 0
+        }
+    }
+]
