@@ -1,5 +1,5 @@
 def vowel_filter(sentence):
-    vowels = {"a", "e", "i", "o", "u"}
+    vowels = ("a", "e", "i", "o", "u")
 
     for char in sentence.lower():
         if char in vowels:
