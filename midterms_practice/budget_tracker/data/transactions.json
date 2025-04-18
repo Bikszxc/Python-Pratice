@@ -1,0 +1,146 @@
+[
+    {
+        "amount": 100,
+        "types": "Income",
+        "category": "Food",
+        "date": "01/09/2025"
+    },
+    {
+        "amount": 100,
+        "types": "Expense",
+        "category": "Needs",
+        "date": "02/10/2025"
+    },
+    {
+        "amount": 50,
+        "types": "Income",
+        "category": "Needs",
+        "date": "01/11/2025"
+    },
+    {
+        "amount": 120,
+        "types": "Income",
+        "category": "Salary",
+        "date": "02/01/2025"
+    },
+    {
+        "amount": 60,
+        "types": "Expense",
+        "category": "Utilities",
+        "date": "03/01/2025"
+    },
+    {
+        "amount": 150,
+        "types": "Income",
+        "category": "Freelance",
+        "date": "03/10/2025"
+    },
+    {
+        "amount": 200,
+        "types": "Expense",
+        "category": "Rent",
+        "date": "04/01/2025"
+    },
+    {
+        "amount": 80,
+        "types": "Income",
+        "category": "Gift",
+        "date": "04/15/2025"
+    },
+    {
+        "amount": 90,
+        "types": "Expense",
+        "category": "Food",
+        "date": "05/01/2025"
+    },
+    {
+        "amount": 110,
+        "types": "Income",
+        "category": "Salary",
+        "date": "05/20/2025"
+    },
+    {
+        "amount": 45,
+        "types": "Expense",
+        "category": "Entertainment",
+        "date": "06/05/2025"
+    },
+    {
+        "amount": 200,
+        "types": "Income",
+        "category": "Freelance",
+        "date": "06/15/2025"
+    },
+    {
+        "amount": 75,
+        "types": "Expense",
+        "category": "Transportation",
+        "date": "07/01/2025"
+    },
+    {
+        "amount": 160,
+        "types": "Income",
+        "category": "Salary",
+        "date": "07/25/2025"
+    },
+    {
+        "amount": 150,
+        "types": "Expense",
+        "category": "Travel",
+        "date": "08/02/2025"
+    },
+    {
+        "amount": 100,
+        "types": "Income",
+        "category": "Investment",
+        "date": "08/10/2025"
+    },
+    {
+        "amount": 300,
+        "types": "Expense",
+        "category": "Emergency",
+        "date": "09/01/2025"
+    },
+    {
+        "amount": 120,
+        "types": "Income",
+        "category": "Freelance",
+        "date": "09/20/2025"
+    },
+    {
+        "amount": 85,
+        "types": "Expense",
+        "category": "Food",
+        "date": "10/01/2025"
+    },
+    {
+        "amount": 200,
+        "types": "Income",
+        "category": "Gift",
+        "date": "10/15/2025"
+    },
+    {
+        "amount": 160,
+        "types": "Expense",
+        "category": "Utilities",
+        "date": "11/01/2025"
+    },
+    {
+        "amount": 300,
+        "types": "Income",
+        "category": "Freelance",
+        "date": "11/10/2025"
+    },
+    {
+        "amount": 250,
+        "types": "Expense",
+        "category": "Rent",
+        "date": "12/01/2025"
+    },
+    {
+        "amount": 200,
+        "types": "Income",
+        "category": "Bonus",
+        "date": "12/20/2025"
+    }
+]
