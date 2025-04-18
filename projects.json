@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Meoow Project",
+        "client": "Test Corp.",
+        "deadline": "12/30/2025",
+        "status": "Ongoing"
+    },
+    {
+        "name": "Web Redesign",
+        "client": "Creative Solutions",
+        "deadline": "05/15/2025",
+        "status": "Ongoing"
+    },
+    {
+        "name": "Marketing Campaign",
+        "client": "Global Inc.",
+        "deadline": "09/01/2025",
+        "status": "Completed"
+    },
+    {
+        "name": "Mobile App Development",
+        "client": "Tech Innovations",
+        "deadline": "11/10/2025",
+        "status": "Ongoing"
+    },
+    {
+        "name": "E-commerce Website",
+        "client": "E-Shop Ltd.",
+        "deadline": "07/22/2025",
+        "status": "Completed"
+    },
+    {
+        "name": "Data Analysis Project",
+        "client": "Market Insights",
+        "deadline": "03/25/2025",
+        "status": "Ongoing"
+    },
+    {
+        "name": "UX/UI Design Overhaul",
+        "client": "Design Pro",
+        "deadline": "06/30/2025",
+        "status": "Ongoing"
+    },
+    {
+        "name": "Software Testing",
+        "client": "Code Quality Inc.",
+        "deadline": "04/14/2025",
+        "status": "Completed"
+    },
+    {
+        "name": "SEO Optimization",
+        "client": "Web Growth Solutions",
+        "deadline": "10/19/2025",
+        "status": "Ongoing"
+    },
+    {
+        "name": "Cloud Infrastructure Setup",
+        "client": "TechSystems",
+        "deadline": "08/05/2025",
+        "status": "Completed"
+    },
+    {
+        "name": "Hackathon 2025",
+        "client": "GDSC - USA Iloilo",
+        "deadline": "04/25/2025",
+        "status": "Ongoing"
+    }
+]
